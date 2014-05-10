@@ -1,0 +1,28 @@
+//Default values
+var dspy_price, darmy_price, dworker_price, dfactory_price, dworker_eat, darmy_consumption, dfarm_price, dfarm_yield,darmy_count,dbase_fortify_count, dbase_health, dfactory_count, dfarm_count, dfood_count, dmoney, dspy_count, dworker_count, dworker_consumption;
+
+darmy_count = 0
+darmy_price = 5
+darmy_consumption = 3
+
+dbase_fortify_count = 3
+dbase_health = 100
+
+dfactory_count = 2
+dfactory_price = 3
+
+dfarm_count = 1
+dfarm_price = 10
+dfarm_yield = 10
+dfood_count = 10
+
+dmoney = 20
+
+dspy_count = 0
+dspy_price = 3
+
+dworker_count = 10
+dworker_consumption = 1
+dworker_price = 1
+
+
